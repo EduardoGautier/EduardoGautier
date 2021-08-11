@@ -13,3 +13,9 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGautier&layout=compact&show_icons=true&theme=dark)](https://github.com/EduardoGautier/github-readme-stats)
+
+
+
+
+
