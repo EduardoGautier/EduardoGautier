@@ -1,4 +1,4 @@
-<h1 align="center"> Hey👋
+<h1 align="center"> Hey🤙
 
 
 #### My name is Eduardo, I'm a Systems Analysis and Development Student, living in Brazil and passionate about technology.</h1>
