@@ -10,6 +10,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/eduardo-santos-0b060b166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/eduardo-santos-0b060b166/" height="50" width="50" /></a>
  <a href="https://github.com/EduardoGautier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/EduardoGautier" height="50" width="50" /></a>
+  <a href="mailto:duduchn2011@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  height="50" width="50" /></a>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGautier&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
