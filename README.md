@@ -19,7 +19,7 @@
  
  
  
- <br></br>
+
  
  <div align="center">
  <h3 align="center">Languages</h3>
@@ -28,20 +28,19 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg"  height="50" width="50" /></a>
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg"  height="50" width="50" /></a>
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg"  height="50" width="50" /></a>
- 
- <br></br>
+
  
  <div align="center">
  <h3 align="center">FrameWorks</h3>
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg"  height="50" width="50" /></a>
  
- <br></br>
+
  
  <div align="center">
  <h3 align="center">Tools</h3>
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg"  height="50" width="50" /></a>
  
- <br></br>
+
  
   <div align="center">
  <h3 align="center">Databases</h3>
