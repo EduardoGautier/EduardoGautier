@@ -41,13 +41,6 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg"  height="50" width="50" /></a>
  
 
- 
-  <div align="center">
- <h3 align="center">Databases</h3>
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg"  height="50" width="50" /></a>
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg"  height="50" width="50" /></a>
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg"  height="50" width="50" /></a>
- 
 
 <br></br>
 
